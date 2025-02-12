@@ -1,0 +1,30 @@
+C:\Users\jpodrug\Documents\SleepData\bin\Debug\net8.0\SleepData.exe
+C:\Users\jpodrug\Documents\SleepData\bin\Debug\net8.0\SleepData.deps.json
+C:\Users\jpodrug\Documents\SleepData\bin\Debug\net8.0\SleepData.runtimeconfig.json
+C:\Users\jpodrug\Documents\SleepData\bin\Debug\net8.0\SleepData.dll
+C:\Users\jpodrug\Documents\SleepData\bin\Debug\net8.0\SleepData.pdb
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\SleepData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\SleepData.AssemblyInfoInputs.cache
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\SleepData.AssemblyInfo.cs
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\SleepData.csproj.CoreCompileInputs.cache
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\SleepData.dll
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\refint\SleepData.dll
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\SleepData.pdb
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\SleepData.genruntimeconfig.cache
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\ref\SleepData.dll
+C:\Users\jpodrug\Documents\SleepData\obj\Debug\net8.0\SleepData.sourcelink.json
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\bin\Debug\net8.0\SleepData.exe
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\bin\Debug\net8.0\SleepData.deps.json
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\bin\Debug\net8.0\SleepData.runtimeconfig.json
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\bin\Debug\net8.0\SleepData.dll
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\bin\Debug\net8.0\SleepData.pdb
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\SleepData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\SleepData.AssemblyInfoInputs.cache
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\SleepData.AssemblyInfo.cs
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\SleepData.csproj.CoreCompileInputs.cache
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\SleepData.sourcelink.json
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\SleepData.dll
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\refint\SleepData.dll
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\SleepData.pdb
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\SleepData.genruntimeconfig.cache
+C:\Users\exark\OneDrive\Documents\WCTC (1) (1) (1)\2025\.Net Database Programming\SleepData\obj\Debug\net8.0\ref\SleepData.dll
